@@ -1,0 +1,620 @@
+http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601
+We use cookies to enhance your experience on our website. By continuing to use
+our website, you are agreeing to our use of cookies. You can change your
+cookie settings at any time. [ Find out more
+](http://global.oup.com/cookiepolicy/) Jump to Content  Jump to Main
+Navigation
+
+OSO  version  0.4.3  build  1
+
+[ University Press Scholarship Online  ](//www.universitypressscholarship.com)
+
+  * [ Sign in ](/login;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B) . 
+  * Not registered? [ Sign up. ](/signup;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B "Sign Up")
+
+  * [ About  ](/page/about-oso/about;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ News  ](/page/news;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Partner Presses  ](/page/partner-presses;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Subscriber Services  ](/page/subscriber-services;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Contact Us  ](/page/contact-us;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Take a Tour  ](/page/take-a-tour;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Help  ](/page/help;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+
+[ Oxford Scholarship Online  ](/)
+
+[ Publications ](/browse) [ Pages ](/searchSecondary)
+
+  * Publications 
+  * Pages 
+
+All Partner Presses  Oxford Scholarship Online  [ Advanced Search
+](/advancedsearch;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+
+[ Help  ](/help;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B#viewbook)
+
+[
+](/oso/viewoxchapbook.layout:updatesearchbyspecializations;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t:ac=10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601)
+Search my Subject Specializations:  Select  ...
+
+[
+](/oso/viewoxchapbook.layout:updatespecializations;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t:ac=10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601)
+
+####  Select your specializations:  Select All  /  Clear Selections
+
+  * Biology 
+    * Animal Biology 
+    * Aquatic Biology 
+    * Biochemistry / Molecular Biology 
+    * Biodiversity / Conservation Biology 
+    * Biomathematics / Statistics and Data Analysis / Complexity Studies 
+    * Biotechnology 
+    * Developmental Biology 
+    * Disease Ecology / Epidemiology 
+    * Ecology 
+    * Evolutionary Biology / Genetics 
+    * Microbiology 
+    * Natural History and Field Guides 
+    * Ornithology 
+    * Plant Sciences and Forestry 
+  * Business and Management 
+    * Business History 
+    * Corporate Governance and Accountability 
+    * Finance, Accounting, and Banking 
+    * HRM / IR 
+    * Information Technology 
+    * Innovation 
+    * International Business 
+    * Knowledge Management 
+    * Marketing 
+    * Organization Studies 
+    * Pensions and Pension Management 
+    * Political Economy 
+    * Public Management 
+    * Strategy 
+  * Classical Studies 
+    * African History: BCE to 500CE 
+    * American History: pre-Columbian BCE to 500CE 
+    * Ancient Greek, Roman, and Early Christian Philosophy 
+    * Ancient Religions 
+    * Archaeology: Classical 
+    * Archaeology: Non-Classical 
+    * Asian and Middle Eastern History: BCE to 500CE 
+    * British and Irish History: BCE to 500CE 
+    * European History: BCE to 500CE 
+    * History of Art: pre-history, BCE to 500CE, ancient and classical, Byzantine 
+    * Literary Studies: Classical, Early, and Medieval 
+    * Plays and Playwrights: Classical, Early, and Medieval 
+    * Poetry and Poets: Classical, Early, and Medieval 
+    * Prose and Writers: Classical, Early, and Medieval 
+    * World History: BCE to 500CE 
+  * Economics and Finance 
+    * Behavioural Economics 
+    * Development, Growth, and Environmental 
+    * Econometrics 
+    * Economic History 
+    * Economic Systems 
+    * Financial Economics 
+    * History of Economic Thought 
+    * International 
+    * Macro- and Monetary Economics 
+    * Microeconomics 
+    * Public and Welfare 
+    * South and East Asia 
+  * History 
+    * African History 
+    * African-American History 
+    * American History: 19th Century 
+    * American History: 20th Century 
+    * American History: Civil War 
+    * American History: early to 18th Century 
+    * Ancient History / Archaeology 
+    * Asian History 
+    * British and Irish Early Modern History 
+    * British and Irish Medieval History 
+    * British and Irish Modern History 
+    * Cultural History 
+    * Economic History 
+    * Environmental History 
+    * European Early Modern History 
+    * European Medieval History 
+    * European Modern History 
+    * Family History 
+    * Historiography 
+    * History of Ideas 
+    * History of Religion 
+    * History of Science, Technology, and Medicine 
+    * Indian History 
+    * Latin American History 
+    * Middle East History 
+    * Military History 
+    * Political History 
+    * Social History 
+    * World Early Modern History 
+    * World Medieval History 
+    * World Modern History 
+  * Law 
+    * Company and Commercial Law 
+    * Comparative Law 
+    * Competition Law 
+    * Constitutional and Administrative Law 
+    * Criminal Law and Criminology 
+    * EU Law 
+    * Employment Law 
+    * Environmental and Energy Law 
+    * Family Law 
+    * Human Rights and Immigration 
+    * Intellectual Property, IT, and Media Law 
+    * Law of Obligations 
+    * Legal History 
+    * Legal Profession and Ethics 
+    * Medical Law 
+    * Philosophy of Law 
+    * Private International Law 
+    * Public International Law 
+    * Trusts 
+  * Linguistics 
+    * Applied Linguistics and Pedagogy 
+    * Computational Linguistics 
+    * English Language 
+    * Historical Linguistics 
+    * Language Families 
+    * Lexicography 
+    * Phonetics / Phonology 
+    * Psycholinguistics / Neurolinguistics / Cognitive Linguistics 
+    * Semantics and Pragmatics 
+    * Sociolinguistics / Anthropological Linguistics 
+    * Syntax and Morphology 
+    * Theoretical Linguistics 
+  * Literature 
+    * 16th-century and Renaissance Literature 
+    * 17th-century and Restoration Literature 
+    * 18th-century Literature 
+    * 19th-century Literature and Romanticism 
+    * 19th-century and Victorian Literature 
+    * 20th-century Literature and Modernism 
+    * 20th-century and Contemporary Literature 
+    * African-American Literature 
+    * American Colonial Literature 
+    * American, 18th Century and Early American Literature 
+    * American, 19th Century Literature 
+    * American, 20th Century Literature 
+    * Anglo-Saxon / Old English Literature 
+    * Criticism/Theory 
+    * Drama 
+    * Early and Medieval Literature 
+    * European Literature 
+    * Film, Media, and Cultural Studies 
+    * Folk Literature 
+    * Milton Studies 
+    * Mythology and Folklore 
+    * Poetry 
+    * Prose (inc. letters, diaries) 
+    * Shakespeare Studies 
+    * Women's Literature 
+    * World Literature 
+  * Mathematics 
+    * Algebra 
+    * Analysis 
+    * Applied Mathematics 
+    * Biostatistics 
+    * Combinatorics / Graph Theory / Discrete Mathematics 
+    * Computational Mathematics / Optimization 
+    * Educational Mathematics 
+    * Geometry / Topology 
+    * History of Mathematics 
+    * Logic / Computer Science / Mathematical Philosophy 
+    * Mathematical Biology 
+    * Mathematical Finance 
+    * Mathematical Physics 
+    * Numerical Analysis 
+    * Probability / Statistics 
+    * Pure Mathematics 
+  * Music 
+    * Dance 
+    * Ethnomusicology, World Music 
+    * History, American 
+    * History, Western 
+    * Opera 
+    * Performing Practice/Studies 
+    * Philosophy of Music 
+    * Popular 
+    * Psychology of Music 
+    * Theory, Analysis, Composition 
+
+  * Neuroscience 
+    * Behavioral Neuroscience 
+    * Development 
+    * Disorders of the Nervous System 
+    * History of Neuroscience 
+    * Invertebrate Neurobiology 
+    * Molecular and Cellular Systems 
+    * Neuroendocrine and Autonomic 
+    * Sensory and Motor Systems 
+    * Techniques 
+  * Palliative Care 
+    * Paediatric Palliative Medicine 
+    * Pain Management and Palliative Pharmacology 
+    * Palliative Medicine Research 
+    * Palliative Medicine and Older People 
+    * Patient Care and End-of-Life Decision Making 
+  * Philosophy 
+    * Aesthetics 
+    * American Philosophy 
+    * Ancient Philosophy 
+    * Feminist Philosophy 
+    * General 
+    * History of Philosophy 
+    * Logic/Philosophy of Mathematics 
+    * Metaphysics/Epistemology 
+    * Moral Philosophy 
+    * Philosophy of Language 
+    * Philosophy of Mind 
+    * Philosophy of Religion 
+    * Philosophy of Science 
+    * Political Philosophy 
+  * Physics 
+    * Atomic, Laser, and Optical Physics 
+    * Condensed Matter Physics / Materials 
+    * Crystallography 
+    * Geophysics, Atmospheric and Environmental Physics 
+    * History of Physics 
+    * Nuclear and Plasma Physics 
+    * Particle Physics / Astrophysics / Cosmology 
+    * Soft Matter / Biological Physics 
+    * Theoretical, Computational, and Statistical Physics 
+  * Political Science 
+    * American Politics 
+    * Asian Politics 
+    * Comparative Politics 
+    * Conflict Politics and Policy 
+    * Democratization 
+    * Environmental Politics 
+    * European Union 
+    * Indian Politics 
+    * International Relations and Politics 
+    * Middle Eastern Politics 
+    * Political Economy 
+    * Political Theory 
+    * Reference 
+    * Russian Politics 
+    * Security Studies 
+    * UK Politics 
+  * Psychology 
+    * Behavioural Neuroendocrinology 
+    * Clinical Child Psychology / School Psychology 
+    * Clinical Psychology 
+    * Cognitive Models and Architectures 
+    * Cognitive Neuroscience 
+    * Cognitive Psychology 
+    * Developmental Psychology 
+    * Evolutionary Psychology 
+    * Forensic Psychology 
+    * Health Psychology 
+    * Human-Technology Interaction 
+    * Music Psychology 
+    * Neuropsychology 
+    * Psychopharmacology 
+    * Social Psychology 
+    * Vision 
+  * Public Health and Epidemiology 
+    * Epidemiology 
+    * Public Health 
+  * Religion 
+    * Biblical Studies 
+    * Buddhism 
+    * Church History 
+    * Early Christian Studies 
+    * Hinduism 
+    * History of Christianity 
+    * Islam 
+    * Judaism 
+    * Philosophy of Religion 
+    * Religion and Literature 
+    * Religion and Society 
+    * Religion in the Ancient World 
+    * Religious Studies 
+    * Sikhism 
+    * Theology 
+    * World Religions 
+  * Social Work 
+    * Children and Families 
+    * Communities and Organizations 
+    * Crime and Justice 
+    * Health and Mental Health 
+    * Research and Evaluation 
+    * Social Policy 
+  * Sociology 
+    * Comparative and Historical Sociology 
+    * Culture 
+    * Economic Sociology 
+    * Education 
+    * Gender and Sexuality 
+    * Gerontology and Ageing 
+    * Health, Illness, and Medicine 
+    * Law, Crime and Deviance 
+    * Marriage and the Family 
+    * Methodology and Statistics 
+    * Migration Studies (including Refugee Studies) 
+    * Occupations, Professions, and Work 
+    * Politics, Social Movements and Social Change 
+    * Population and Demography 
+    * Race and Ethnicity 
+    * Science, Technology and Environment 
+    * Social Movements and Social Change 
+    * Social Psychology and Interaction 
+    * Social Research and Statistics 
+    * Social Stratification, Inequality, and Mobility 
+    * Social Theory 
+    * Sociology of Religion 
+    * Sport and Leisure 
+    * Urban and Rural Studies 
+
+  * [ ](/)
+  * Browse by Subject 
+
+  * [ My Content  (0)  ]()
+
+  * [ My searches  (0)  ]()
+
+  * [ Biology ](/browse?t=OSO:biology)
+  * [ Business and Management ](/browse?t=OSO:management)
+  * [ Classical Studies ](/browse?t=OSO:classics)
+  * [ Economics and Finance ](/browse?t=OSO:economicsFinance)
+  * [ History ](/browse?t=OSO:history)
+  * [ Law ](/browse?t=OSO:law)
+  * [ Linguistics ](/browse?t=OSO:linguistics)
+  * [ Literature ](/browse?t=OSO:literature)
+  * [ Mathematics ](/browse?t=OSO:maths)
+  * [ Music ](/browse?t=OSO:music)
+  * [ Neuroscience ](/browse?t=OSO:neuroscience)
+  * [ Palliative Care ](/browse?t=OSO:palliativeCare)
+  * [ Philosophy ](/browse?t=OSO:philosophy)
+  * [ Physics ](/browse?t=OSO:physics)
+  * [ Political Science ](/browse?t=OSO:politicalScience)
+  * [ Psychology ](/browse?t=OSO:psychology)
+  * [ Public Health and Epidemiology ](/browse?t=OSO:publicHealthEpidemiology)
+  * [ Religion ](/browse?t=OSO:religion)
+  * [ Social Work ](/browse?t=OSO:socialWork)
+  * [ Sociology ](/browse?t=OSO:sociology)
+
+Close
+
+![Language Myths and the History of English](/view/covers/9780195327601.jpg)
+
+Users without a subscription are not able to see the full content.
+
+  * [ Find in Worldcat ](http://worldcat.org/isbn/9780195327601)
+
+#  Language Myths and the History of English
+
+##  Richard J. Watts
+
+###  Abstract
+
+This book aims to deconstruct the myths that are traditionally reproduced as
+factual accounts of the historical development of English, and to reveal new
+myths that are currently being constructed. Using concepts and interpretive
+sensibilities developed in the field of sociolinguistics, discourse analysis,
+and sociocognitive linguistics over the past 40 years, the book unearths these
+myths and exposes their ideological roots. Based on the assumption that
+conventional histories of English are histories of standard English rather
+than histories of the varieties of English, he sets h ...  More
+
+This book aims to deconstruct the myths that are traditionally reproduced as
+factual accounts of the historical development of English, and to reveal new
+myths that are currently being constructed. Using concepts and interpretive
+sensibilities developed in the field of sociolinguistics, discourse analysis,
+and sociocognitive linguistics over the past 40 years, the book unearths these
+myths and exposes their ideological roots. Based on the assumption that
+conventional histories of English are histories of standard English rather
+than histories of the varieties of English, he sets his goal as being not to
+construct an alternative discourse, but rather to offer alternative readings
+of the historical data. It defines what we mean by a linguistic ideology and
+shows how language myths, rather than simply being untruths about language,
+are derived from conceptual metaphors of language and are crucial in the
+formation of hegemonic discourses on language. He argues, in effect, that no
+discourse—a hegemonic discourse, an alternative discourse, or even a
+deconstructive discourse—can ever be free of ideology. The book argues that a
+naturalized discourse is always built on a foundation of myths, which are all
+too easily taken as true accounts, and is a call to study alternative ways in
+which the full range of “Englishes” may ultimately be accounted for
+historically. But the book also issues the warning that, whatever new
+histories are proposed, they, too, will ultimately need to undergo a thorough
+investigation with regard to the myths that may underlie them.
+
+_Keywords:_ [ history of English
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=history of
+English) , [ language myths
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=language myths)
+, [ discourse archives
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=discourse
+archives) , [ hegemonic discourse
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=hegemonic
+discourse) , [ conceptual metaphors
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=conceptual
+metaphors) , [ language ideologies
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=language
+ideologies) , [ standard vs. non-standard
+](//www.universitypressscholarship.com/search?f_0=keywords&q_0=standard vs.
+non-standard)
+
+###  Bibliographic Information
+
+Print publication date: 2011  |  Print ISBN-13: 9780195327601  
+---|---  
+Published to Oxford Scholarship Online: May 2011  |
+DOI:10.1093/acprof:oso/9780195327601.001.0001  
+  
+###  Authors
+
+####  Affiliations are at time of print publication.
+
+Richard J. Watts, _author_  
+University of Bern, Switzerland  
+[ Author Webpage
+](http://www.ens.unibe.ch/content/about_us/modern_linguistics/r_watts/)  
+
+More  Less
+
+  * [ Print  ](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601?print "Print")
+  * [ Save  ](/signup;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B "Save")
+  * [ Cite  ](/cite/$002f10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601/9780195327601;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?nojs=true "Cite")
+  * [ Email  ](/oso/viewoxchapbook:email/Language$0020Myths$0020and$0020the$0020History$0020of$0020English$0020-$0020Oxford$0020Scholarship/http:$002f$002fwww.oxfordscholarship.com$002fview$002f10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t:ac=10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601&nojs=true " Email")
+  * [ Share  ![Share](//s7.addthis.com/static/btn/sm-share-en.gif) ](//www.addthis.com/bookmark.php?v=250&pub= "Share")
+  * Hit Highlighting 
+
+Decrease  Increase
+
+Search within book
+
+Email Address
+
+Password
+
+[ Forgotten your password?
+](http://www.oxfordscholarship.com/page/1544/forgotten-your-password
+"Subscriber Services")
+
+Library Card #
+
+  * Login with your Library Card 
+  * [ Login with Athens/Access Management Federation ](https://shibboleth2sp.sams.oup.com/shib?dest=http://www.oxfordscholarship.com/SHIBBOLETH?dest=%2Fview%2F10.1093%2Facprof%3Aoso%2F9780195327601.001.0001%2Facprof-9780195327601)
+  * [ Login with Athens ](https://auth.athensams.net/?ath_dspid=OUP&ath_returl=http://www.oxfordscholarship.com/ATHENS?dest=%2Fview%2F10.1093%2Facprof%3Aoso%2F9780195327601.001.0001%2Facprof-9780195327601)
+
+[ Don't have an account?
+](/page/subscribe;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+
+###  Subject(s) in Oxford Scholarship Online
+
+  * [ Linguistics ](/browse;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t1=OSO%3Alinguistics)
+  * [ Sociolinguistics / Anthropological Linguistics ](/browse;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t1=OSO%3Alinsoc)
+
+###  Reviews
+
+  * [ Find in JSTOR ](http://www.jstor.org/action/doAdvancedSearch?q0=Language+Myths+and+the+History+of+English&f0=ti&c1=AND&q1=Watts&f1=au&acc=on&wc=on&Search=Search&re=on&sd=&ed=&la=&jo)
+
+###  Related Content in OSO
+
+  * [ _Bad Language_ , Edwin L. Battistella (2005)  ](/viewByDoi/10.1093/acprof:oso/9780195172485.001.0001)
+  * [ _A History of English_ , Donald Ringe (2006)  ](/viewByDoi/10.1093/acprof:oso/9780199284139.001.0001)
+  * [ _Sound Change and the History of English_ , Jeremy Smith (2007)  ](/viewByDoi/10.1093/acprof:oso/9780199291953.001.0001)
+  * [ _Talking Proper_ , Lynda Mugglestone (2007)  ](/viewByDoi/10.1093/acprof:oso/9780199250622.001.0001)
+  * [ _Experience, Evidence, and Sense_ , Anna Wierzbicka (2010)  ](/viewByDoi/10.1093/acprof:oso/9780195368000.001.0001)
+
+Show Summary Details
+
+[ subscribe ](/) or login to access all content.
+
+##  Subscriber Login
+
+Email Address
+
+Password
+
+[ Forgotten your password?
+](http://www.oxfordscholarship.com/page/1544/forgotten-your-password
+"Subscriber Services")
+
+Library Card #
+
+  * Login with your Library Card 
+  * [ Login with Athens/Access Management Federation ](https://shibboleth2sp.sams.oup.com/shib?dest=http://www.oxfordscholarship.com/SHIBBOLETH?dest=%2Fview%2F10.1093%2Facprof%3Aoso%2F9780195327601.001.0001%2Facprof-9780195327601)
+  * [ Login with Athens ](https://auth.athensams.net/?ath_dspid=OUP&ath_returl=http://www.oxfordscholarship.com/ATHENS?dest=%2Fview%2F10.1093%2Facprof%3Aoso%2F9780195327601.001.0001%2Facprof-9780195327601)
+
+[ Don't have an account?
+](/page/subscribe;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+
+#  Contents
+
+Go to page:  ![](/assets/tapestry/5.1.0.4/spacer.gif)
+
+View:
+
+  * no detail 
+  * [ some detail ](/oso/viewoxchapbook.viewmode:viewchange/MED;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t:ac=10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601)
+  * [ full detail ](/oso/viewoxchapbook.viewmode:viewchange/MAX;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B?t:ac=10.1093$002facprof:oso$002f9780195327601.001.0001$002facprof-9780195327601)
+
+##  Front Matter
+
+###  [ Title Pages
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-miscMatter-1)
+
+###  [ To all my former students with thanks and fond memories
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-miscMatter-5)
+
+###  [ Preface
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-miscMatter-6)
+
+###  [ Language Myths and the History of English
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-miscMatter-8)
+
+###  [ Chapter 1 Metaphors, myths, ideologies and archives
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-1)
+
+###  [ Chapter 2 Establishing a linguistic pedigree
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-2)
+
+###  [ Chapter 3 Breaking the unbroken tradition
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-3)
+
+###  [ Chapter 4 The construction of a modern myth: Middle English as a creole
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-4)
+
+###  [ Chapter 5 Barbarians and others
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-5)
+
+###  [ Chapter 6 The myth of “greatness”
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-6)
+
+###  [ Chapter 7 Reinterpreting Swift's A Proposal for Correcting, Improving
+and Ascertaining the English Tongue
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-7)
+
+###  [ Chapter 8 Polishing the myths
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-8)
+
+###  [ Chapter 9 Challenging the hegemony of standard English
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-9)
+
+###  [ Chapter 10 Transforming a myth to save an archive
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-10)
+
+###  [ Chapter 11 Commodifying English and constructing a new myth
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-11)
+
+###  [ Chapter 12 Myths, ideologies of English and the funnel view of the
+history of English
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-chapter-12)
+
+##  End Matter
+
+###  [ References
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-bibliography-1)
+
+###  [ Index
+](/view/10.1093/acprof:oso/9780195327601.001.0001/acprof-9780195327601-indexList-1)
+
+[ Oxford University Press  ](http://www.oup.com/)
+
+Copyright © 2017. All rights reserved.
+
+PRINTED FROM OXFORD SCHOLARSHIP ONLINE (www.oxfordscholarship.com). (c)
+Copyright Oxford University Press, 2017. All Rights Reserved. Under the terms
+of the licence agreement, an individual user may print out a PDF of a single
+chapter of a monograph in OSO for personal use (for details see [
+http://www.oxfordscholarship.com/page/privacy-policy
+](http://www.oxfordscholarship.com/page/privacy-policy) ).date: 22 December
+2017
+
+  * [ Privacy policy and legal notice  ](/page/privacy-policy/privacy-policy-and-legal-notice;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+  * [ Credits  ](/page/51/credits;jsessionid=408415A48F1D643FA3C1B2FDC6282C1B)
+
+Powered by:
+
+[ Safari Books Online  ](http://www.pubfactory.com)
+
+  * [41.35.84.57|41.35.84.57] 
+  * 41.35.84.57 
+
+![](//ouptag.scholarlyiq.com/ntpagetag.gif?js=0)
+

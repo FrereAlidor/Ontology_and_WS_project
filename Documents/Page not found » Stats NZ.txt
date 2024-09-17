@@ -1,0 +1,362 @@
+http://www.stats.govt.nz/~/media/Statistics/Census/2013%20Census/profile-and-summary-reports/quickstats-culture-identity/quickstats-culture-identity.pdf
+##  Quick links
+
+[ Go to main content ](page-not-found/#main) [ Go to search form ](page-not-
+found/#MiniSearch_Form)
+
+[ ![Stats NZ](themes/stats/images/logo.svg) ](https://www.stats.govt.nz/)
+
+  * Statistics 
+
+    * **Insights**
+    * [ News  ](/insights?filters=News)
+    * [ Information releases  ](/insights?filters=Information%20releases)
+    * [ Reports  ](/insights?filters=Reports)
+    * [ Release calendar  ](/release-calendar/)
+    * [ A–Z of information releases  ](/az-of-information-releases)
+    *     * **Subscriptions**
+    * [ Information releases  ](/services/sign-up-for-information-release-notifications)
+    * [ Newsletters  ](/services/sign-up-for-newsletters)
+
+    * **Statistics by topic**
+    * [ Population  ](/topics/population)
+    * [ Business  ](/topics/business)
+    * [ Labour market  ](/topics/labour-market)
+    * [ Society  ](/topics/society)
+    * [ Economy  ](/topics/economy)
+    * [ Environment  ](/topics/environment)
+    * [ View all topics  ](/all-topics)
+
+    * **Statistics by place**
+    * [ Auckland  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13170&tabname=)
+    * [ Tauranga  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13878&parent_id=13853&tabname=#13878)
+    * [ Hamilton  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13702&parent_id=13631&tabname=#13702)
+    * [ Wellington  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=14438&parent_id=14322&tabname=#14438)
+    * [ Christchurch  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=14758&parent_id=14703&tabname=#14758)
+    * [ Dunedin  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=15022&parent_id=14973&tabname=#15022)
+    * [ View all places  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx)
+
+    * **Methods**
+    * [ Classifications and standards  ](http://archive.stats.govt.nz/methods/classifications-and-standards.aspx)
+    * [ Metadata in DataInfo+  ](http://datainfoplus.stats.govt.nz/)
+    * [ Survey design  ](http://archive.stats.govt.nz/methods/survey-design-data-collection.aspx)
+    *     * **Experimental**
+    * [ Business performance benchmarker  ](/experimental/business-performance-benchmarker)
+    * [ Experimental dwelling estimates  ](/experimental/experimental-dwelling-estimates)
+    * [ Data search bot  ](/experimental/data-search-bot)
+    * [ API initiative  ](/experimental/api-initiative)
+    * [ View all experimental initiatives  ](/experimental-initiatives)
+
+  * Tools 
+
+    * **Large datasets**
+    * [ Infoshare  ](http://www.stats.govt.nz/infoshare/)
+    * [ NZ.Stat  ](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
+    * [ CSV files for download  ](/tools/csv-files-for-download)
+    *     * **Indicators**
+    * [ Social indicators  ](http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-social-indicators/home.aspx)
+    * [ Progress indicators  ](http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-progress-indicators/Home.aspx)
+    * [ Environmental indicators  ](http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home.aspx)
+
+    * **Regional data and maps**
+    * [ Geographic areas  ](http://archive.stats.govt.nz/browse_for_stats/Maps_and_geography/Geographic-areas.aspx)
+    * [ Geographic data service  ](https://datafinder.stats.govt.nz/)
+    * [ Commuter view  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/commuter-view-visualisation.aspx)
+    * [ StatsMaps  ](http://archive.stats.govt.nz/StatsMaps/Home.aspx)
+    * [ Quickstats about a place  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx)
+    *     * **Visualisations**
+    * [ Interactive population pyramid  ](https://www.stats.govt.nz/tools/interactive-population-pyramid-for-new-zealand)
+    * [ CPI visualisation  ](http://archive.stats.govt.nz/datavisualisation/cpi.html)
+
+    * **For businesses**
+    * [ Data for business  ](http://archive.stats.govt.nz/data-for-business/Home/dataforbusiness.aspx)
+    * [ Market Mapper  ](http://businesstoolbox.stats.govt.nz/MarketMapperMap.aspx)
+    * [ Industry Profiler  ](http://businesstoolbox.stats.govt.nz/IndustryProfilerBrowse.aspx)
+
+    * **Metadata and classifications**
+    * [ Ariā  ](http://aria.stats.govt.nz/)
+    * [ Classification code finder  ](http://archive.stats.govt.nz/tools_and_services/classificationcodefinder.aspx)
+    * [ DataInfo+  ](http://datainfoplus.stats.govt.nz/)
+    *     * **Experimental**
+    * [ Business performance benchmarker  ](/experimental/business-performance-benchmarker)
+    * [ Experimental dwelling estimates  ](/experimental/experimental-dwelling-estimates)
+    * [ Data search bot  ](/experimental/data-search-bot)
+    * [ API initiative  ](/experimental/api-initiative)
+    * [ View all experimental initiatives  ](/experimental-initiatives)
+    *     * [ View all tools  ](/tools)
+
+  * Services and support 
+
+    * **Services**
+    * [ Information centre  ](/services/information-centre/)
+    * [ Customised data services  ](/services/customised-data-services)
+    * [ Integrated Data Infrastructure  ](/integrated-data/integrated-data-infrastructure/)
+    * [ Longitudinal Business Database  ](/integrated-data/longitudinal-business-database/)
+    * [ Access microdata in the Data Lab  ](/integrated-data/access-microdata-in-the-data-lab/)
+
+    * **Help with surveys**
+    * [ Business surveys  ](/help-with-surveys/business-survey-information/)
+    * [ Individual and household surveys  ](/help-with-surveys/individual-and-household-survey-information/)
+    * [ A–Z of Stats NZ surveys  ](/help-with-surveys/az-of-our-surveys/)
+    * [ Privacy, security, and confidentiality of survey data  ](/help-with-surveys/privacy-security-and-confidentiality-of-survey-data/)
+
+    * **Subscriptions**
+    * [ Information releases  ](/services/sign-up-for-information-release-notifications)
+    * [ Newsletters  ](/services/sign-up-for-newsletters)
+
+    * **Contact**
+    * [ Contact us  ](/contact-us)
+
+  * Integrated data 
+
+    * **Information and access**
+    * [ Integrated Data Infrastructure  ](/integrated-data/integrated-data-infrastructure/)
+    * [ Longitudinal Business Database  ](/integrated-data/longitudinal-business-database/)
+    * [ Access microdata in the Data Lab  ](/integrated-data/access-microdata-in-the-data-lab/)
+
+  * Census 
+
+    * **2018 Census**
+    * [ Visit the census website  ](https://www.census.govt.nz/)
+    * [ Information about 2018 Census  ](https://www.stats.govt.nz/2018-census/)
+    * [ Make a data request  ](https://www.stats.govt.nz/services/customised-data-services)
+
+    * **Previous data and reports**
+    * [ 2013 Census  ](http://archive.stats.govt.nz/Census/2013-census.aspx)
+    * [ 2006 Census  ](http://archive.stats.govt.nz/Census/2006-census.aspx)
+    * [ 2001 Census  ](http://archive.stats.govt.nz/Census/2001-census-data.aspx)
+    * [ 1996 Census  ](http://archive.stats.govt.nz/Census/1996-census-data.aspx)
+
+  * About us 
+
+    * **Corporate information**
+    * [ Careers  ](http://careers.stats.govt.nz/)
+    * [ Our organisation  ](/about-us/our-organisation)
+    * [ Executive leadership team  ](/about-us/executive-leadership-team)
+    * [ Corporate publications  ](/about-us/corporate-publications)
+    * [ Legislation, policies, and guidelines  ](/about-us/legislation-policies-and-guidelines/)
+    * [ Official Information Act responses  ](https://www.stats.govt.nz/about-us/official-information-act-responses/)
+    * [ Privacy, security, and confidentiality of survey data  ](/help-with-surveys/privacy-security-and-confidentiality-of-survey-data/)
+
+    * **Leaders in NZ's data**
+    * [ Data leadership  ](/about-us/data-leadership/)
+
+    * **Website**
+    * [ Terms and conditions  ](/about-us/terms-and-conditions)
+    * [ Privacy statement  ](/about-us/privacy-statement)
+    * [ Copyright  ](/about-us/copyright)
+    * [ Development roadmap  ](/about-us/development-roadmap)
+
+    * **Contact**
+    * [ Contact us  ](/contact-us)
+
+#  Page not found
+
+Sorry, it seems you were trying to access a page that doesn't exist.
+
+Please check the spelling of the URL you were trying to access and try again.
+
+**We have just moved to a new website. To view our old site visit:**
+
+[ http://archive.stats.govt.nz ](http://archive.stats.govt.nz "archive
+website")
+
+**If you want to visit an exact page that was on our old site:**
+
+  1. Replace the 'www' part of the url with 'archive' 
+  2. Make sure the start says 'http' NOT 'https' 
+
+As an example:
+
+**https** :// **www** .stats.govt.nz/methods/classifications-and-
+standards/classification-related-stats-standards/main-means-of-travel-to-
+work.aspx
+
+becomes
+
+**http** :// **archive** .stats.govt.nz/methods/classifications-and-
+standards/classification-related-stats-standards/main-means-of-travel-to-
+work.aspx
+
+If you are still having difficulty, please contact us via live chat, or our [
+contact form ](/contact-us/) .
+
+######  Statistics by topic
+
+  * [ Population ](/topics/population)
+  * [ Business ](/topics/business)
+  * [ Labour market ](/topics/labour-market)
+  * [ Society ](/topics/society)
+  * [ Economy ](/topics/economy)
+  * [ Environment ](/topics/environment)
+
+######  Data tools
+
+  * [ NZ.Stat ](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
+  * [ Infoshare ](http://www.stats.govt.nz/infoshare/)
+  * [ Industry profiler ](http://businesstoolbox.stats.govt.nz/IndustryProfilerBrowse.aspx)
+  * [ Market Mapper ](http://businesstoolbox.stats.govt.nz/MarketMapperMap.aspx)
+  * [ StatsMaps ](http://archive.stats.govt.nz/StatsMaps/Home.aspx)
+  * [ Data search bot ](/experimental/data-search-bot)
+  * [ Archive website ](http://archive.stats.govt.nz)
+
+######  Corporate
+
+  * [ About us ](/about-us/)
+  * [ Contact us ](/contact-us)
+  * [ Careers ](http://careers.stats.govt.nz/)
+
+######  Subscribe & Follow
+
+[ Follow us on Facebook  ](https://www.facebook.com/StatisticsNZ) [ Follow us
+on Twitter  ](https://www.twitter.com/Stats_NZ) [ Follow us on YouTube
+](https://www.youtube.com/user/StatisticsNZ) [ Follow us on LinkedIn
+](https://www.linkedin.com/company/statistics-new-zealand)
+
+[ Subscribe to newsletters ](/services/sign-up-for-newsletters)
+
+  * [ Terms and conditions ](/about-us/terms-and-conditions/)
+  * [ Privacy ](/about-us/privacy-statement/)
+  * [ Copyright ](/about-us/copyright/)
+
+[ ![New Zealand Government logo](themes/stats/dist/img/new-zealand-government-
+logo.svg) ](https://www.govt.nz/) [ ![Creative Commons
+logo](themes/stats/dist/img/cc-icon.svg) ![Attribution
+logo](themes/stats/dist/img/by-icon.svg)
+](https://creativecommons.org/licenses/by/3.0/nz/)
+
+Unless indicated otherwise, all content on stats.govt.nz is licensed for re-
+use under a Creative Commons 4.0 International Licence
+
+[ ![Stats NZ](themes/stats/images/logo-plain.svg)
+](https://www.stats.govt.nz/)
+
+_search_
+
+_menu_
+
+_search_
+
+[ ![Stats NZ](themes/stats/images/logo-plain.svg)
+](https://www.stats.govt.nz/)
+
+  * Statistics 
+    * **Insights**
+    * [ News  ](/insights?filters=News)
+    * [ Information releases  ](/insights?filters=Information%20releases)
+    * [ Reports  ](/insights?filters=Reports)
+    * [ Release calendar  ](/release-calendar/)
+    * [ A–Z of information releases  ](/az-of-information-releases)
+    *     * **Subscriptions**
+    * [ Information releases  ](/services/sign-up-for-information-release-notifications)
+    * [ Newsletters  ](/services/sign-up-for-newsletters)
+    * **Statistics by topic**
+    * [ Population  ](/topics/population)
+    * [ Business  ](/topics/business)
+    * [ Labour market  ](/topics/labour-market)
+    * [ Society  ](/topics/society)
+    * [ Economy  ](/topics/economy)
+    * [ Environment  ](/topics/environment)
+    * [ View all topics  ](/all-topics)
+    * **Statistics by place**
+    * [ Auckland  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13170&tabname=)
+    * [ Tauranga  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13878&parent_id=13853&tabname=#13878)
+    * [ Hamilton  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=13702&parent_id=13631&tabname=#13702)
+    * [ Wellington  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=14438&parent_id=14322&tabname=#14438)
+    * [ Christchurch  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=14758&parent_id=14703&tabname=#14758)
+    * [ Dunedin  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx?request_value=15022&parent_id=14973&tabname=#15022)
+    * [ View all places  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx)
+    * **Methods**
+    * [ Classifications and standards  ](http://archive.stats.govt.nz/methods/classifications-and-standards.aspx)
+    * [ Metadata in DataInfo+  ](http://datainfoplus.stats.govt.nz/)
+    * [ Survey design  ](http://archive.stats.govt.nz/methods/survey-design-data-collection.aspx)
+    *     * **Experimental**
+    * [ Business performance benchmarker  ](/experimental/business-performance-benchmarker)
+    * [ Experimental dwelling estimates  ](/experimental/experimental-dwelling-estimates)
+    * [ Data search bot  ](/experimental/data-search-bot)
+    * [ API initiative  ](/experimental/api-initiative)
+    * [ View all experimental initiatives  ](/experimental-initiatives)
+  * Tools 
+    * **Large datasets**
+    * [ Infoshare  ](http://www.stats.govt.nz/infoshare/)
+    * [ NZ.Stat  ](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
+    * [ CSV files for download  ](/tools/csv-files-for-download)
+    *     * **Indicators**
+    * [ Social indicators  ](http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-social-indicators/home.aspx)
+    * [ Progress indicators  ](http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-progress-indicators/Home.aspx)
+    * [ Environmental indicators  ](http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home.aspx)
+    * **Regional data and maps**
+    * [ Geographic areas  ](http://archive.stats.govt.nz/browse_for_stats/Maps_and_geography/Geographic-areas.aspx)
+    * [ Geographic data service  ](https://datafinder.stats.govt.nz/)
+    * [ Commuter view  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/commuter-view-visualisation.aspx)
+    * [ StatsMaps  ](http://archive.stats.govt.nz/StatsMaps/Home.aspx)
+    * [ Quickstats about a place  ](http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place.aspx)
+    *     * **Visualisations**
+    * [ Interactive population pyramid  ](https://www.stats.govt.nz/tools/interactive-population-pyramid-for-new-zealand)
+    * [ CPI visualisation  ](http://archive.stats.govt.nz/datavisualisation/cpi.html)
+    * **For businesses**
+    * [ Data for business  ](http://archive.stats.govt.nz/data-for-business/Home/dataforbusiness.aspx)
+    * [ Market Mapper  ](http://businesstoolbox.stats.govt.nz/MarketMapperMap.aspx)
+    * [ Industry Profiler  ](http://businesstoolbox.stats.govt.nz/IndustryProfilerBrowse.aspx)
+    * **Metadata and classifications**
+    * [ Ariā  ](http://aria.stats.govt.nz/)
+    * [ Classification code finder  ](http://archive.stats.govt.nz/tools_and_services/classificationcodefinder.aspx)
+    * [ DataInfo+  ](http://datainfoplus.stats.govt.nz/)
+    *     * **Experimental**
+    * [ Business performance benchmarker  ](/experimental/business-performance-benchmarker)
+    * [ Experimental dwelling estimates  ](/experimental/experimental-dwelling-estimates)
+    * [ Data search bot  ](/experimental/data-search-bot)
+    * [ API initiative  ](/experimental/api-initiative)
+    * [ View all experimental initiatives  ](/experimental-initiatives)
+    *     * [ View all tools  ](/tools)
+  * Services and support 
+    * **Services**
+    * [ Information centre  ](/services/information-centre/)
+    * [ Customised data services  ](/services/customised-data-services)
+    * [ Integrated Data Infrastructure  ](/integrated-data/integrated-data-infrastructure/)
+    * [ Longitudinal Business Database  ](/integrated-data/longitudinal-business-database/)
+    * [ Access microdata in the Data Lab  ](/integrated-data/access-microdata-in-the-data-lab/)
+    * **Help with surveys**
+    * [ Business surveys  ](/help-with-surveys/business-survey-information/)
+    * [ Individual and household surveys  ](/help-with-surveys/individual-and-household-survey-information/)
+    * [ A–Z of Stats NZ surveys  ](/help-with-surveys/az-of-our-surveys/)
+    * [ Privacy, security, and confidentiality of survey data  ](/help-with-surveys/privacy-security-and-confidentiality-of-survey-data/)
+    * **Subscriptions**
+    * [ Information releases  ](/services/sign-up-for-information-release-notifications)
+    * [ Newsletters  ](/services/sign-up-for-newsletters)
+    * **Contact**
+    * [ Contact us  ](/contact-us)
+  * Integrated data 
+    * **Information and access**
+    * [ Integrated Data Infrastructure  ](/integrated-data/integrated-data-infrastructure/)
+    * [ Longitudinal Business Database  ](/integrated-data/longitudinal-business-database/)
+    * [ Access microdata in the Data Lab  ](/integrated-data/access-microdata-in-the-data-lab/)
+  * Census 
+    * **2018 Census**
+    * [ Visit the census website  ](https://www.census.govt.nz/)
+    * [ Information about 2018 Census  ](https://www.stats.govt.nz/2018-census/)
+    * [ Make a data request  ](https://www.stats.govt.nz/services/customised-data-services)
+    * **Previous data and reports**
+    * [ 2013 Census  ](http://archive.stats.govt.nz/Census/2013-census.aspx)
+    * [ 2006 Census  ](http://archive.stats.govt.nz/Census/2006-census.aspx)
+    * [ 2001 Census  ](http://archive.stats.govt.nz/Census/2001-census-data.aspx)
+    * [ 1996 Census  ](http://archive.stats.govt.nz/Census/1996-census-data.aspx)
+  * About us 
+    * **Corporate information**
+    * [ Careers  ](http://careers.stats.govt.nz/)
+    * [ Our organisation  ](/about-us/our-organisation)
+    * [ Executive leadership team  ](/about-us/executive-leadership-team)
+    * [ Corporate publications  ](/about-us/corporate-publications)
+    * [ Legislation, policies, and guidelines  ](/about-us/legislation-policies-and-guidelines/)
+    * [ Official Information Act responses  ](https://www.stats.govt.nz/about-us/official-information-act-responses/)
+    * [ Privacy, security, and confidentiality of survey data  ](/help-with-surveys/privacy-security-and-confidentiality-of-survey-data/)
+    * **Leaders in NZ's data**
+    * [ Data leadership  ](/about-us/data-leadership/)
+    * **Website**
+    * [ Terms and conditions  ](/about-us/terms-and-conditions)
+    * [ Privacy statement  ](/about-us/privacy-statement)
+    * [ Copyright  ](/about-us/copyright)
+    * [ Development roadmap  ](/about-us/development-roadmap)
+    * **Contact**
+    * [ Contact us  ](/contact-us)
+
